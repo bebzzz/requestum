@@ -1,0 +1,1 @@
+[Tue Mar 28 18:27:26.363059 2017] [:error] [pid 3818] [client 127.0.0.1:33110] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_, referer: http://wordpress3.loc/wp-admin/setup-config.php?step=1
